@@ -24,8 +24,7 @@ int so2X;
 boolean subirtexto = false;
 int tiempoimagen= 2;
 
-color rojo= color(100,0,0);
-color azul= color(0,0,200);
+
 color negro= color(0);
 color verde= color(0,255,0);
 
@@ -39,7 +38,7 @@ so2 = loadImage("so2.jpg");
 so3= loadImage("so3.png");
   
   mitexto1= ("Solar Opposites");
-  mitexto2= ("Creada por Justin Roiland \ny ThomasMiddlethich" );
+  mitexto2= ("Creada por Justin Roiland \ny Thomas Middlethich" );
   mitexto3= ("Producido by Hulu \n ¿La vida extraterrestre en la tierra es peor o mejor?");
   
   texto= loadFont ("CenturyGothic-Bold-25.vlw");
